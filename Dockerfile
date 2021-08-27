@@ -1,10 +1,5 @@
 
 ###################
-# INSTALL PREREQUISITES
-###################
-sudo apt install openjdk-11-jdk nodejs && sudo npm install --global yarn
-
-###################
 # STAGE 1.1: builder frontend
 ###################
 
