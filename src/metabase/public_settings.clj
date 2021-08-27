@@ -245,7 +245,7 @@
   (deferred-tru "The url or image that you want to use as the favicon.")
   :visibility :public
   :type       :string
-  :default    "/app/assets/img/favicon.ico")
+  :default    "/app/assets/img/CADRE_WIP-analytics.png")
 
 (defsetting enable-password-login
   (deferred-tru "Allow logging in by email and password.")

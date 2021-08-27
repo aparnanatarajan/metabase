@@ -120,7 +120,7 @@ export default class Setup extends Component {
       return (
         <div className="relative full-height flex flex-full layout-centered">
           <div className="wrapper wrapper--trim text-centered">
-            <LogoIcon className="text-brand mb4" height={118} />
+            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="118"/>
             <div
               className="relative z2 text-centered ml-auto mr-auto"
               style={{ maxWidth: 550 }}
@@ -128,7 +128,7 @@ export default class Setup extends Component {
               <h1
                 style={{ fontSize: "2.2rem" }}
                 className="text-brand"
-              >{t`Welcome to Metabase`}</h1>
+              >{t`Welcome to Cadre`}</h1>
               <p className="text-body">{t`Looks like everything is working. Now let’s get to know you, connect to your data, and start finding you some answers!`}</p>
               <button
                 className="Button Button--primary mt4"
@@ -145,7 +145,7 @@ export default class Setup extends Component {
       return (
         <div>
           <nav className="SetupNav text-brand py2 flex layout-centered">
-            <LogoIcon height={51} />
+            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="51"/>
           </nav>
 
           <div className="wrapper wrapper--small">
