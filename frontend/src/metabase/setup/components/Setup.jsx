@@ -120,7 +120,7 @@ export default class Setup extends Component {
       return (
         <div className="relative full-height flex flex-full layout-centered">
           <div className="wrapper wrapper--trim text-centered">
-            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="118"/>
+            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="118" />
             <div
               className="relative z2 text-centered ml-auto mr-auto"
               style={{ maxWidth: 550 }}
@@ -145,7 +145,7 @@ export default class Setup extends Component {
       return (
         <div>
           <nav className="SetupNav text-brand py2 flex layout-centered">
-            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="51"/>
+            <img src="/app/assets/img/CADRE_WIP-analytics.png" height="51" />
           </nav>
 
           <div className="wrapper wrapper--small">
